@@ -2,5 +2,13 @@
 
 # Einstein Foundation Symposium
 
-This is the official website for [Einstein Foundation Symposium](https://frabjous-kelpie-a42398.netlify.app).
+This is the official website for [Einstein Foundation Symposium](https://symposium.einsteinfoundation.de/).
 
+## Development in the dev version
+
+Any changes in the GitHub repo will be reflected immediately on the [test deployment](test-symposium.netlify.app) - it will then take two hours for it to get deployed to he official website for [Einstein Foundation Symposium](https://symposium.einsteinfoundation.de/)
+
+## Contributing :two_hearts:
+- If you like it, leave your star in this project :star2:
+- If you would like to complain/suggest/contribute to this project, feel free to open a issue :heart_decoration:
+- Please follow our [contributing guidelines](https://github.com/Einestine-Foundation-Symposium/Symposium_Website/blob/main/CONTRIBUTING.md). 
