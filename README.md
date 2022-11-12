@@ -6,7 +6,7 @@ This is the official website for [Einstein Foundation Symposium](https://symposi
 
 ## Development in the dev version
 
-Any changes in the GitHub repo will be reflected immediately on the [test deployment](test-symposium.netlify.app) - it will then take two hours for it to get deployed to he official website for [Einstein Foundation Symposium](https://symposium.einsteinfoundation.de/)
+Any changes in the GitHub repo will be reflected immediately on the [test deployment](test-symposium.netlify.app) - it will then take two hours for it to get deployed to the official website for [Einstein Foundation Symposium](https://symposium.einsteinfoundation.de/)
 
 ## Contributing :two_hearts:
 - If you like it, leave your star in this project :star2:
