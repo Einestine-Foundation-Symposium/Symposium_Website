@@ -1271,7 +1271,8 @@ h6 {
 }
 
 #subscribe button:hover {
-  background: #e0072f;
+  background: #ed8699;
+  color: #fff;
 }
 
 @media (max-width: 460px) {
@@ -1279,6 +1280,13 @@ h6 {
     margin-top: 10px;
   }
 }
+
+#subscribe a {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
 
 /*--------------------------------------------------------------
 # Buy Tickets Section
