@@ -1289,6 +1289,84 @@ h6 {
 
 
 /*--------------------------------------------------------------
+# Recordings Section
+--------------------------------------------------------------*/
+#record {
+  padding: 60px;
+  background: url(../img/bg/bg3.jpeg) center center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+}
+
+#record:before {
+  content: "";
+  background: rgba(6, 12, 34, 0.6);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+@media (min-width: 1024px) {
+  #subscribe {
+    background-attachment: fixed;
+  }
+}
+
+#record .section-header h2,
+#record p {
+  color: #fff;
+}
+
+#record input {
+  background: #fff;
+  color: #060c22;
+  border: 0;
+  outline: none;
+  margin: 0;
+  padding: 9px 20px;
+  border-radius: 50px;
+  font-size: 14px;
+}
+
+@media (min-width: 767px) {
+  #record input {
+    min-width: 400px;
+  }
+}
+
+#record button {
+  border: 0;
+  padding: 9px 25px;
+  cursor: pointer;
+  background: #f82249;
+  color: #fff;
+  transition: all 0.3s ease;
+  outline: none;
+  font-size: 14px;
+  border-radius: 50px;
+}
+
+#record button:hover {
+  background: #ed8699;
+  color: #fff;
+}
+
+@media (max-width: 460px) {
+  #record button {
+    margin-top: 10px;
+  }
+}
+
+#record a {
+  color: #fff;
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+/*--------------------------------------------------------------
 # Buy Tickets Section
 --------------------------------------------------------------*/
 #buy-tickets {
